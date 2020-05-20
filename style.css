@@ -64,6 +64,10 @@ ul li img {
 	width: 350px;
 }
 
+ul li a:hover img {
+	transform: scale(1.05);
+}
+
 ul li p {
 	font-weight: bold;
 	padding: 0 15px;
